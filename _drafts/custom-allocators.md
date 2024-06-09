@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 ---
 # Need For Custom Allocators
 

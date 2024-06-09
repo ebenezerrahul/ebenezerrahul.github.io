@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: types
 ---
 
 My Understanding of types was initially based on structs from c. 
