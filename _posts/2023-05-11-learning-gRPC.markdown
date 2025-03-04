@@ -270,6 +270,7 @@ while (i < 5) {
 
 I think this is from me on this there are a lot more things I haven’t explored like streams and bi-directional streams but I think I will come back to it later as I’m very much interested in it.
 
+
 I also haven’t mentioned how exactly to compile .proto files as I had to look it up and I’m not sure I understand all the parameters well.
 
 ```bash
