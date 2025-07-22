@@ -1,0 +1,10 @@
+
+---
+layout: post
+title:  "new post"
+date:   2025-07-23 12:04:01
+categories: jekyll update
+author : ebenezerrahul
+---
+[Ebenezer Rahul](https://medium.com/@ebenezerrahul?source=post_page-----c550a55195b3--------------------------------)
+hat’s it for today.
